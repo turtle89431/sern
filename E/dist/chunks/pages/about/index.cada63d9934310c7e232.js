@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{19:function(e,t,n){"use strict";n.r(t),t.default={css:null,exports:{onMounted(){console.log(this.state)}},template:function(e,t,n,o){return e('<h1 expr19="expr19"> </h1><p>Here I am at the about page</p>',[{redundantAttribute:"expr19",selector:"[expr19]",expressions:[{type:t.TEXT,childNodeIndex:0,evaluate:function(e){return e.props.server}}]}])},name:"about"}}}]);
+//# sourceMappingURL=index.cada63d9934310c7e232.js.map

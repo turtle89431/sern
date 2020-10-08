@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{19:function(e,n,r){"use strict";r.r(n),n.default={css:null,exports:null,template:function(e,n,r,t){return e('<h1 expr8="expr8"> </h1><p>Here I describe who I am and what I do</p>',[{redundantAttribute:"expr8",selector:"[expr8]",expressions:[{type:n.TEXT,childNodeIndex:0,evaluate:function(e){return e.props.server}}]}])},name:"about"}}}]);
+//# sourceMappingURL=index.86ddb41f68439c9f5470.js.map

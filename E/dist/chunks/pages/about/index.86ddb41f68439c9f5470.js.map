@@ -1,0 +1,1 @@
+{"version":3,"sources":["source-webpack:///./src/pages/about.riot"],"names":["props","server"],"mappings":"sWACSA,MAAMC,c","file":"chunks/pages/about/index.86ddb41f68439c9f5470.js","sourcesContent":["<about>\n    <h1>{props.server}</h1>\n    <p>Here I describe who I am and what I do</p>\n</about>"],"sourceRoot":""}
